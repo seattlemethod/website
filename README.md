@@ -1,2 +1,6 @@
-# website
-Testing hosting a website in github
+# Seattle Method
+Testing hosting website using Github.
+
+[Seattle Method Blog](https://seattlemethod.blogspot.com/)
+
+[Digital Financial Reporting Blog](https://digitalfinancialreporting.blogspot.com)
